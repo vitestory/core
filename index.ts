@@ -8,5 +8,6 @@ export const utils = {
   template: {
     buildTemplateView,
     mustacheUtils,
+    renderTemplate,
   },
 };
